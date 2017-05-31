@@ -1,5 +1,5 @@
 {
-    "name": "vova07/yii2-imperavi-widget",
+    "name": "fury93/yii2-imperavi-widget",
     "description": "The imperavi redactor widget for Yii 2 framework.",
     "type": "yii2-extension",
     "keywords": [
@@ -12,7 +12,7 @@
         "redactor",
         "wysiwyg"
     ],
-    "homepage": "https://github.com/vova07/yii2-imperavi-widget",
+    "homepage": "https://github.com/fury93/yii2-imperavi-widget",
     "license": "BSD-3-Clause",
     "authors": [
         {
